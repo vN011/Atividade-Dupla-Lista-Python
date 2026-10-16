@@ -15,4 +15,4 @@ print()
 
 for i in range(numero,0,-1):
     print(f"{i}")
-print(f"\nFim!")
+print(f"\nFim")
